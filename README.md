@@ -21,18 +21,6 @@ _✨ A modern spaced-repetition scheduler for Anki based on the [Free Spaced Rep
   </a>
 </p>
 
-# [611Study.ICU](https://github.com/IQAQI233/611Study.ICU)
-
-Hi, I'm Jarrett Ye, the creator of FSRS. FSRS is a highly efficient spaced repetition algorithm used by many people worldwide, saving considerable time. It applies cognitive science and educational technology to help students learn more effectively.
-
-However, most Chinese high school students are still forced to study "611" - from 6 AM to 11 PM, six days a week. Tragically, many students have committed suicide or developed serious mental health issues.
-
-The [611Study.ICU](https://github.com/IQAQI233/611Study.ICU) project aims to stop this abusive study model and protect students' lives and health.
-
-As a former Chinese student, I experienced overtime study and sleep deprivation during high school. Anki saved my life. I want to use this algorithm to save more lives, but most Chinese high schools still prevent students from using it.
-
-I hope this project can raise awareness and help more students.
-
 # Table of contents
 
 - [Introduction](#introduction)
@@ -42,6 +30,7 @@ I hope this project can raise awareness and help more students.
   - [Contributors](#contributors)
 - [Developer Resources](#developer-resources)
 - [Stargazers Over Time](#stargazers-over-time)
+- [Acknowledgements](#acknowledgements)
 
 # Introduction
 
@@ -147,3 +136,9 @@ Explore our extensive collection of [Research Notebooks](https://github.com/open
    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=open-spaced-repetition/fsrs4anki&type=Date" />
  </picture>
 </a>
+
+# Acknowledgements
+
+A special thanks to [墨墨背单词 (MaiMemo)](https://www.maimemo.com/) for their support of FSRS development by allowing its research engineer, [Jarrett Ye](https://github.com/L-M-Sherlock), to dedicate part of his working hours to this open-source project. This greatly helps in the continuous improvement and maintenance of FSRS for the benefit of the entire community.
+
+We would also like to extend our sincere gratitude to [Damien Elmes](https://github.com/dae) of [Ankitects](https://github.com/ankitects) for his invaluable technical support, and to the AnkiWeb users for the review history dataset. Without their collective contribution, FSRS would not have achieved its current level of popularity and influence.
